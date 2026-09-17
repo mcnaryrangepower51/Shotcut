@@ -213,3 +213,6 @@ Shotcut is completely free to use, with all features and updates included. There
 ---
 
 Ready to enhance your video editing experience? Download Shotcut today and unleash your creativity!
+
+---
+**Last updated:** 2026-09-17 11:18:58 UTC
